@@ -9,11 +9,6 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML3&logoColor=563D7C)
   ![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat-square&logo=javascript)
 
-- 🎨 &nbsp;
-  ![Adobe PP](https://img.shields.io/badge/-Pr-333333?style=flat-square&logo=adobepremierepro)
-  ![Adobe PS](https://img.shields.io/badge/-Ps-333333?style=flat-square&logo=adobephotoshop)
-  ![Adobe AE](https://img.shields.io/badge/-Ae-333333?style=flat-square&logo=adobeaftereffects)
-
 ## 🤝🏻 &nbsp;Réseaux Sociaux & Contact
 
 <a href="mailto:contact@6ix1dev.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
