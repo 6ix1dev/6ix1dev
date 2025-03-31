@@ -20,9 +20,8 @@
 ##  🤝🏻 &nbsp;Réseaux Sociaux & Contact
 
 
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
-<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=White"/></a>
-<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=youtube&logoColor=White"/></a>
+<a href="https://guns.lol/uhz"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
+<a href="https://t.me/Leak2MaladeMental"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=White"/></a>
 <a href="https://www.tiktok.com/@6ixhackerpro"><img src="https://img.shields.io/badge/-TikTok-9497CE?style=flat-square&logo=tiktok&logoColor=White"/></a>
 
   
@@ -48,5 +47,5 @@
 -->
 
 ##  👀 &nbsp;Visiteurs
-  <img src="https://profile-counter.glitch.me/iyed-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/6ix1dev/count.svg" />
 `
