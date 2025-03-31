@@ -29,7 +29,7 @@
 ## 🐈‍⬛ &nbsp;Statistiques GitHub
 
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=6ix1dev&theme=tokyonigh)
 
 
 <!--
