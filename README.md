@@ -11,10 +11,9 @@
 
 ## 🤝🏻 &nbsp;Réseaux Sociaux & Contact
 
-<a href="mailto:contact@6ix1dev.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
 <a href="https://www.instagram.com/6ix1dev/"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=White"/></a>
-<a href="https://www.youtube.com/@6ix1dev"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=youtube&logoColor=White"/></a>
-<a href="https://www.tiktok.com/@6ix1dev"><img src="https://img.shields.io/badge/-TikTok-9497CE?style=flat-square&logo=tiktok&logoColor=White"/></a>
+<a href="https://guns.lol/uhz"><img src="https://img.shields.io/badge/-Guns.lol-9497CE?style=flat-square&logo=guns.lol&logoColor=White"/></a>
+<a href="https://www.tiktok.com/@6ixlehackerpro"><img src="https://img.shields.io/badge/-TikTok-9497CE?style=flat-square&logo=tiktok&logoColor=White"/></a>
 
 ## 🐈‍⬛ &nbsp;Statistiques GitHub
 
