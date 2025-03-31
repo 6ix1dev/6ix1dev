@@ -1,4 +1,4 @@
-```
+
 ## Bienvenue sur mon GitHub 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=6ix1dev+%3C3)](https://git.io/typing-svg)
 
@@ -32,4 +32,3 @@
 
 ## 👀 &nbsp;Visiteurs
 <img src="https://profile-counter.glitch.me/6ix1dev/count.svg" />
-```
