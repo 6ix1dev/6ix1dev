@@ -1,4 +1,4 @@
-`## Bienvenue sur mon GitHub 👋
+# Bienvenue sur mon GitHub 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=6ix+%3C3)](https://git.io/typing-svg)
 ## Voici mes compétences 🚀 :
 - 🌐 &nbsp;
