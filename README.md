@@ -4,7 +4,7 @@
 
 ## Voici mes compétences 🚀 :
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=CSS3)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
   ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
