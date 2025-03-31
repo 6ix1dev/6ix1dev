@@ -7,7 +7,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat-square&logo=JSON&logoColor=1572B6)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML3&logoColor=563D7C)
-  ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
   ![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat-square&logo=javascript)
 
 - 🎨 &nbsp;
