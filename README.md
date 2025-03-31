@@ -9,11 +9,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
   ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
   ![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat-square&logo=javascript)
-- 🖥️ &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
-  ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
+
 - 🎨 &nbsp;
   ![Adobe PP](https://img.shields.io/badge/-Pr-333333?style=flat-square&logo=adobepremierepro)
   ![Adobe PS](https://img.shields.io/badge/-Ps-333333?style=flat-square&logo=adobephotoshop)
